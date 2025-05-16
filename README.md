@@ -11,7 +11,7 @@
     https://github.com/IlyaPopovLa/VK_API
 2. Python3 должен быть уже установлен.
 3. Выполнить установку зависимостей:
-    pip install -r requirements.txt (необходимые библиотеки requests, python-dotenv)
+    '''pip install -r requirements.txt'''' (необходимые библиотеки requests, python-dotenv)
 4. Рекомендуется использовать [virtualenv/venv](https://docs.python.org/3/library/venv.html)
 5. Создайте файл .env и добавьте ваш VK API токен:
     VK_TOKEN='ваш_токен_здесь'
